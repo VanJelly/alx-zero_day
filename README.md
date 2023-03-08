@@ -1,1 +1,1 @@
-My first readme
+My REAME file for 0x03-git directory
